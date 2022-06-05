@@ -1,0 +1,25 @@
+Python for Collaborative Robots
+Written by Ilya Grozov, Rozum Robotics — June 2020
+
+At Rozum Robotics our mission is to create safe and easy to use collaborative robotic arms. We are striving to make robots that could be integrated into different workspaces and industries as quickly as possible.
+
+Moreover, the goal is not only for the end-users to be able to use robots with the help of UI, but also to develop complex industrial-grade applications that could take advantage of the full potential of the robot and auxiliary devices. When there was a discussion in the company about what programming language to use for such purposes, there were plenty of strong and mature competitors (e.g. Java and C/C++), but the advantages of Python beat all other options.
+
+The process of designing, implementing, and making Python API for the Pulse robotic arm public was our first successful experience. The simplicity of development and setup which, in basic cases, include installation of the interpreter, running one pip install command, and writing several lines of code to get access to the robot functionality, led to the intensive expansion of the language into the company’s processes and codebase.
+
+For example, our QA team started creating automated testing pipelines using the open-source tooling provided by the community. This reduced the time needed to test the systems from days to hours. But, of course, the main benefit was that we created an opportunity to develop high-level applications that use our robot for everyone who owns one. After achieving promising results with the robot API, we chose the next milestone.
+
+Robotic arms are not the only product of the company ― we have our servo-motors, and we wanted to control them using Python, too.
+
+The motors API is written in C, so it was not a problem to wrap it with Python. And again, this tiny library and wide choice of open-source libraries helped us to build diverse infrastructure. For instance: various testing stands with auto-generated reports and automatic notification of the results, as well as research applications gave us a possibility to make our hardware and software even better.
+
+Needless to say, it helped to establish a “plug and play” experience for the end-users.
+
+
+And here comes the next story where Python plays a crucial role in our Rozum Cafe project. It started as a fun project for the evening but has grown into an industrial application. The language has become the glue that combined all the parts, including robotic arm control, payment processing, system state monitoring, etc. The future plans for Python expansion in our company include several topics. First of all, we are building custom execution runtimes for user programs. It should provide a safe (from the robotics perspective) and easy to use environment that would have access both to the rich Python functionality and packages and to the robotic arm facilities. Secondly, we continue the automation of the research and development activities in order to reduce the time and effort needed to perform necessary computations and analysis. Thirdly, our integration team is working on robotic solutions for different industries, and Python has become their best friend that helps during prototyping and industrial integration.
+
+Conclusion The stories that are set out in this article are just some of the examples of how Python influences the robotics field. The Python community deserves an honorable mention for the wonderful packages and language it is creating and improving.
+
+Here is a shortlist of the ones that we use: NumPy, Matplotlib, Pandas, PyTorch, Jupyter, Flask, FastAPI, SQLAlchemy, Gunicorn, Requests, PyTest, Cookiecutter, ROS libraries, and many many others. The people standing behind the Python ecosystem are truly amazing, and we wish them (and us) to continue their productive work to make the world better!
+
+About the Author Ilya Grozov is a Software Engineer and Robotics researcher at Rozum Robotics.

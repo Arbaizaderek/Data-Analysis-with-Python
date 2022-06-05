@@ -1,0 +1,49 @@
+Reseller News
+Microsoft's Playwright simplifies tests for Python web apps
+Playwright also integrates with the testing framework in Python's Django web framework, so that existing Django tests can be extended with front- ...
+4 hours ago.
+
+ZDNet
+Python programming language: Here's what's new in version 3.9 RC2
+Python 3.8 will retain a few Python 2.7 compatibility layers to support projects that rely on 2.7.
+1 day ago.
+
+EdexLive
+Twelve-year-old Dubai-based Indian student publishes book on Python programming for beginners
+Twelve-year-old Dubai-based Indian student publishes book on Python programming for beginners. The class 8 student has also been ...
+23 minutes ago.
+
+TNW
+Test your Python skills with these 10 projects
+These project ideas will hopefully bring back your interest in this amazing language. The best part is you can enhance your Python programming ...
+4 hours ago
+
+TechRepublic
+Python 3.9.0rc2 is out: Most exciting new features
+The latest release candidate for Python is now available. Jack Wallen highlights the best features of this iteration of the programming language.
+6 hours ago.
+
+ZDNet
+Microsoft: Playwright for Python language lets you test web apps in all major browsers
+Playwright, a Python library, allows developers to essentially control the browser with a few lines of Python code to automate cross-browser ...
+3 hours ago.
+
+Dice Insights
+5 Reasons Python is Still the King of Programming Languages
+Kowalkowski also points to Python's large developer community, which helps the language thrive: “It's a popular language with sources on any ...
+1 hour ago.
+
+ZDNet
+NumPy’s contribution to Python is remarkable, but where it goes next could be even more so
+NumPy, the Python package for scientific computing, is an adolescent with prospects for a prolific maturity.
+1 hour ago.
+
+TNW
+Practical tricks every Python developer should have
+From web development to data science and cybersecurity, Python programmers are high in demand. But like all programming languages, in ...
+2 hours ago.
+
+Medium
+The Beginners' Guide to map, zip, and Filter Functions in Python
+When Python encounters map(lambda x: x**3, a) , only map object is created. When the the output of map function is passed to iterables such as ...
+4 hours ago
